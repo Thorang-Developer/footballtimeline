@@ -1,0 +1,14 @@
+#+TITLE: football timeline for all
+#+DATE: Sunday, Jun 12 2016
+
+* How to use:
+1. get ruby 2.3.x: https://rvm.io
+2. pull gems
+#+BEGIN_SRC bash
+   bundle
+#+END_SRC
+3. run
+#+BEGIN_SRC bash
+ruby main.rb
+#+END_SRC
+   
