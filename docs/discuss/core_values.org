@@ -1,0 +1,36 @@
+#+TITLE: Our core values about this app
+#+DATE: Thursday, Jun 23 2016
+#+DESCRIPTION: discussion on things we stand proud/happy/energetic for
+
+#+SEQ_TODO: NEXT(n) FOREVER(f) TODO(t) DOING(d) SOMEDAY(s) | CANCLED(c) DONE(d) PAUSED(p)
+#+STARTUP: content hidestars
+#+TAGS: URGENT(u) SLACKABIT(s) CANWAIT(c) MUSTDO(m) GARBAGE(g)
+
+* Core Values:
+** Mantra:
+   #+BEGIN_QUOTE
+   cronological artificats about football we love.
+   #+END_QUOTE
+
+   #+BEGIN_QUOTE
+   Football timeline is an archieve of beautiful football moments
+   presented as you lived through them --bhatta
+   #+END_QUOTE
+
+** Team: sanepaboys
+
+
+* Usecases
+** open app consumes events                  :MVP:CORE:
+** compare events/teams/players by date      :COMMUNITY:
+** publish events and review                 :COMMUNITY:
+** share events around circle                :EXTRA:
+** easy feeds based on timline summary       :EXTRA:BASICS:
+
+* Todos 
+  :LOGBOOK:
+  - Note taken on [2016-06-23 Thu 22:17] \\
+    Task is assigned to luxman, he will show us analytics and results(graphs,charts)
+  :END:
+- [ ] create a [[https://www.typeform.com/][type_form]] for collecting data.
+
